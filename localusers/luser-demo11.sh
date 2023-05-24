@@ -63,3 +63,4 @@ verbatim 'Here is the password:'
 # Display the password.
 echo "${PASSWORD}"
 
+# small change
